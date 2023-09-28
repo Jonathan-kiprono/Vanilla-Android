@@ -1,0 +1,26 @@
+/*whole body*/
+
+body{
+    background-color: gray;
+}
+
+/*Navigation section*/
+
+.navigation {
+    background-color: white;
+    padding: 0%;
+    text-align: center;
+
+}
+/*Main Section*/
+
+.main {
+    background-color: black;
+
+}
+
+/*Dashboard Section*/
+.dashboard {
+margin-left: 20px;
+
+}
